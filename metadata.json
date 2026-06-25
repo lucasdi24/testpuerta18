@@ -1,0 +1,6 @@
+{
+  "name": "GA4 Test Landing",
+  "description": "Una landing page simple y elegante diseñada para probar y depurar la integración de Google Analytics 4 (GA4) con eventos en tiempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
